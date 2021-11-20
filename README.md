@@ -18,3 +18,9 @@ POde conferir alguns trabalhos dele
 # Projecto
 Projecto de pagina unica onde e possivel destacar os trabalhos, experiencia e a tendencia do dono do portifolio.
 Feito com a pratica de static site generation.
+
+
+
+```js 
+ npm install
+```
